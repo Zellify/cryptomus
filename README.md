@@ -20,7 +20,7 @@ npm i @qweme32/cryptomus
 
 ## Example
 ```ts
-import { Cryptomus } from "@qweme32/cryptomus";
+import { Cryptomus } from "@zellify/cryptomus";
 import { v4 as uuid } from "uuid";
 
 async function main() {
