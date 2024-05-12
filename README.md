@@ -5,17 +5,11 @@
 
 This module is a library for working with the Cryptomus API in a Node.js, written in TypeScript. Please note that this module is under development and is subject to change.
 
-> [!WARNING]  
-> This is a beta prerelease
-
-## Features
-
-- Full typing for request and response to ensure secure development.
-- Web docs - <a href="https://qweme32.github.io/cryptomus">click</a>
-
 ## Install
 ```bash
-npm i @qweme32/cryptomus
+pnpm add @zellify/cryptomus
+# or
+npm install @zellify/cryptomus
 ```
 
 ## Example
@@ -35,5 +29,3 @@ async function main() {
 
 main().then(console.log);
 ```
-
-<center><a href="https://qweme32.github.io/cryptomus">Web docs</a><br>With < 3 by qweme</center>
