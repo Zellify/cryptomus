@@ -1,6 +1,6 @@
 {
-  "name": "@qweme32/cryptomus",
-  "version": "0.3.0",
+  "name": "@zellify/cryptomus",
+  "version": "0.3.1",
   "description": "Node wrapper for cryptomus api",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/qweme32/cryptomus.git"
+    "url": "git+ssh://git@github.com/zellify/cryptomus.git"
   },
   "keywords": [
     "cryptomus",
@@ -21,13 +21,14 @@
     "crypto",
     "payment"
   ],
-  "author": "Qweme Dev",
+  "author": "sveenxx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qweme32/cryptomus/issues"
+    "url": "https://github.com/zellify/cryptomus/issues"
   },
-  "homepage": "https://github.com/qweme32/cryptomus#readme",
+  "homepage": "https://github.com/zellify/cryptomus#readme",
   "devDependencies": {
+    "@changesets/cli": "^2.27.1",
     "@mxssfd/typedoc-theme": "^1.1.3",
     "@types/jest": "^29.5.4",
     "@types/uuid": "^9.0.3",
